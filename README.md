@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Camilo Esteban Mantilla
 
-<!--
-**camilo180700/camilo180700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Python · SQL · Power BI · Excel
 
-Here are some ideas to get you started:
+Data Analyst focused on transforming data into actionable insights for business decision-making.  
+Currently working in **Ads Operations at Publicis**, with experience handling large-scale data environments and performance-driven metrics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in marketing and communication allows me to connect data analysis with real business goals and stakeholder needs.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Python:** pandas, numpy, matplotlib, seaborn  
+- **SQL**
+- **Excel (Advanced)**
+- **Power BI**
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Data Visualization & Business Insights
+
+---
+
+## 📁 Featured Projects
+
+### 🚗 US Automotive Market Analysis
+Exploratory analysis of the U.S. automotive market to identify pricing trends, key brands, and vehicle characteristics using real-world datasets.  
+**Tech:** Python, pandas, matplotlib, seaborn  
+🔗 Repository: https://github.com/tuusuario/automotive-analysis
+
+---
+
+### 📡 Telecom Plan Revenue Analysis
+Customer usage analysis to compare telecom plans, identify behavioral patterns, and evaluate revenue impact.  
+**Tech:** Python, pandas, matplotlib  
+🔗 Repository: https://github.com/tuusuario/telecom-analysis
+
+---
+
+### 📈 User Behavior & Retention Analysis
+Analysis of user behavior and retention patterns to uncover insights and opportunities for product improvement.  
+**Tech:** Python, SQL, Excel  
+🔗 Repository: https://github.com/tuusuario/user-behavior-analysis
+
+---
+
+## 📫 Contact
+- **LinkedIn:** www.linkedin.com/in/camilo-mantilla-data
+- **Email:** camimanti7@gmail.com
