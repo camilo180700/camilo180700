@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Camilo Esteban Mantilla
 
-## 📊 Data Analyst | Python · SQL · Power BI · Excel
+## 📊 Data Analyst | Python · SQL · Excel
 
 Data Analyst focused on transforming data into actionable insights for business decision-making.  
 Currently working in **Ads Operations at Publicis**, with experience handling large-scale data environments and performance-driven metrics.
