@@ -12,8 +12,7 @@ My background in marketing and communication allows me to connect data analysis 
 ## 🛠️ Technologies & Tools
 - **Python:** pandas, numpy, matplotlib, seaborn  
 - **SQL**
-- **Excel (Advanced)**
-- **Power BI**
+- **Excel**
 - Data Cleaning & Exploratory Data Analysis (EDA)
 - Data Visualization & Business Insights
 
