@@ -1,4 +1,4 @@
-<img src="<img width="1000" height="1000" alt="avatar_apps" src="https://github.com/user-attachments/assets/da8b1fdf-9e59-4381-8da8-348865f71f4d" />
+<img src="<img width="450" height="450" alt="avatar_apps" src="https://github.com/user-attachments/assets/da8b1fdf-9e59-4381-8da8-348865f71f4d" />
 " alt="Camilo Mantilla · Ad Operations · Data · Automation" width="100%">
 
 ### Hi, I'm Camilo 👋
