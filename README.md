@@ -64,4 +64,4 @@ live in the ad server and delivers a signed report with the evidence.
 
 ## 📫 Let's connect
 
-**[LinkedIn](https://www.linkedin.com/in/TU-USUARIO-DE-LINKEDIN)** · Spanish (native) · English
+**[LinkedIn]([https://www.linkedin.com/in/TU-USUARIO-DE-LINKEDIN](https://www.linkedin.com/in/camilo-mantilla-data/))** · Spanish (native) · English
